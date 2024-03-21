@@ -1,0 +1,19 @@
+{
+  "name": "lexical-server",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@biomejs/biome": "1.6.1",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@lexical/headless": "0.14.2",
+    "@lexical/html": "0.14.2",
+    "hono": "4.1.3",
+    "jsdom": "24.0.0",
+    "lexical": "0.14.2"
+  }
+}
