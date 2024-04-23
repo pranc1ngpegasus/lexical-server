@@ -12,7 +12,7 @@
   "dependencies": {
     "@lexical/headless": "0.14.2",
     "@lexical/html": "0.14.2",
-    "hono": "4.1.3",
+    "hono": "4.2.7",
     "jsdom": "24.0.0",
     "lexical": "0.14.2"
   }
